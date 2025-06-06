@@ -14,7 +14,7 @@
 ## 🌟 Skills That Make Me Unstoppable
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,java,cpp,c,flask,fastapi,mongodb,firebase,postgres,mysql,docker,aws,flutter,vscode,figma,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,golang,dart,java,cpp,c,flask,fastapi,flutter,mongodb,firebase,postgres,mysql,supabase,docker,aws,vscode,figma,&theme=light" />
 </p>
 
 ### 🔥 Hot Frameworks I Play With:
