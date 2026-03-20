@@ -68,17 +68,20 @@ contact:    "thitivath.m@gmail.com"
 
 ## GitHub Stats
 
-<div align="center">
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=newnonsick&show_icons=true&count_private=true&title_color=38bdf8&text_color=e2e8f0&icon_color=0891b2&bg_color=0f172a&hide_border=true&border_radius=8" alt="GitHub Stats" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newnonsick&stroke=e2e8f0&background=0f172a&ring=38bdf8&fire=0891b2&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=94a3b8&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=newnonsick&show_icons=true&count_private=true&title_color=38bdf8&text_color=e2e8f0&icon_color=0891b2&bg_color=0f172a&hide_border=true&border_radius=8" />
-&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=newnonsick&stroke=e2e8f0&background=0f172a&ring=38bdf8&fire=0891b2&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=94a3b8&hide_border=true&border_radius=8" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=newnonsick&langs_count=8&layout=compact&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&hide_border=true&border_radius=8" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newnonsick&langs_count=8&layout=compact&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&hide_border=true&border_radius=8" alt="Top Languages" />
+</p>
 
 <br/>
 
