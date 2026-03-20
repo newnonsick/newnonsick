@@ -20,25 +20,38 @@
 
 <br/>
 
-## `$ whoami`
+## `$ go run new.go`
 
-```yaml
-name:       "Thitivath Mongkolgittichot"
-alias:      "New"
-location:   "Bangkok, Thailand 🇹🇭"
-education:  "B.Sc. Computer Science · Kasetsart University"
+```go
+package main
 
-focus:
-  - "Backend architecture & APIs (REST / gRPC)"
-  - "Cross-platform mobile development with Flutter"
-  - "Cloud infrastructure & container orchestration"
+type Engineer struct {
+    Name      string
+    Alias     string
+    Location  string
+    Education string
+    Focus     []string
+    Now       struct{ Building, Learning string }
+    OpenTo    []string
+}
 
-currently:
-  building:  "something worth open-sourcing"
-  learning:  "system design & distributed systems"
-
-open_to:    ["full-time roles", "open-source contributions", "side projects"]
-contact:    "thitivath.m@gmail.com"
+func New() Engineer {
+    e := Engineer{
+        Name:      "Thitivath Mongkolgittichot",
+        Alias:     "New",
+        Location:  "Bangkok, Thailand 🇹🇭",
+        Education: "B.Sc. Computer Science · Kasetsart University",
+        Focus: []string{
+            "Backend architecture — REST, gRPC, event-driven",
+            "Cross-platform mobile development with Flutter",
+            "Cloud infrastructure & container orchestration",
+        },
+        OpenTo: []string{"full-time roles", "open-source", "side projects"},
+    }
+    e.Now.Building = "something worth open-sourcing"
+    e.Now.Learning = "distributed systems: consensus protocols & partition tolerance"
+    return e
+}
 ```
 
 <br/>
@@ -87,11 +100,6 @@ contact:    "thitivath.m@gmail.com"
 
 ## Contribution Activity
 
-<!--
-  ⚙️ OPTIONAL — Enable the snake animation (highly recommended).
-  See setup instructions in the expandable section below.
--->
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/newnonsick/newnonsick/output/github-contribution-grid-snake-dark.svg" />
@@ -105,7 +113,7 @@ contact:    "thitivath.m@gmail.com"
 
 <div align="center">
 
-*Always building something - feel free to reach out.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=2000&color=334155&center=true&vCenter=true&width=440&lines=//+always+building+something+worth+shipping" />
 
 <br/>
 
